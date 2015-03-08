@@ -1,11 +1,18 @@
 /*
-Title: Welcome
-Description: This description will go in the meta description tag
+Title: Home
+Description: Simple listing for lots of resources for youth workers
 */
 
-## Welcome to Pico
+## Just quick thought
 
-Congratulations, you have successfully installed [Pico](http://picocms.org/). Pico is a stupidly simple, blazing fast, flat file CMS.
+Cool videos and curriculum do not a successful youth worker make. However, finding the right tools and materials may make a huge difference when it comes to making a huge difference in your community.
+
+In <em>Deep & Wide</em> Andy Stanley says it this way:
+<blockquote>
+    Marry your mission. Date your model. Fall in love with your vision. Stay mildly infatuated with your approach.
+</blockquote>
+
+Resources and materials are fleeting, and daresay useless if they do not further the vision of your church. Always be ready to ask the question, "Is this the <strong>best</strong> way to do this?"
 
 ### Creating Content
 
