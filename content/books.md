@@ -19,8 +19,8 @@ You can find free eBooks online in various places. The following is just a sampl
 
 <table id="ebook-table">
     <tr>
-        <td><a href="http://my.vergenetwork.org/holistic-discipleship/"><img src="http://my.vergenetwork.org/wp-content/uploads/2014/03/HolisticDiscipleshipPeckCoverV2_600x800-225x300.png" alt="Holistic Discipleship" width="200" height="150"/></a></td>
-        <td><a href="https://multiplymovement.com/material"><img src="http://ecx.images-amazon.com/images/I/41F9wGfloCL._AA160_.jpg" alt="Multiply by Francis Chan" width="200" height="150"/></a></td>
+        <td><a href="http://my.vergenetwork.org/holistic-discipleship/"><img src="http://my.vergenetwork.org/wp-content/uploads/2014/03/HolisticDiscipleshipPeckCoverV2_600x800-225x300.png" alt="Holistic Discipleship" width="150" height="200"/></a></td>
+        <td><a href="https://multiplymovement.com/material"><img src="http://ecx.images-amazon.com/images/I/41F9wGfloCL._AA160_.jpg" alt="Multiply by Francis Chan" width="150" height="200"/></a></td>
         <td><a href=""><img src="%base_url%/"/></a></td>
     </tr>
     <tr>
