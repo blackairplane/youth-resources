@@ -18,7 +18,7 @@ When striving to become a better youth worker, (or person in general) it makes l
 
 You can find free eBooks online in various places. The following is just a sampling:
 
-<table>
+<table id="ebook-table">
     <tr>
         <td><a href=""><img src="%base_url%/images/holistic_disicpleship_cover.png"/></a></td>
         <td><a href=""><img src="%base_url%/images/holistic_disicpleship_cover.png"/></a></td>
@@ -30,3 +30,7 @@ You can find free eBooks online in various places. The following is just a sampl
         <td><a href=""><img src="%base_url%/images/holistic_disicpleship_cover.png"/></a></td>
     </tr>
 </table>
+
+<style>
+    #ebook-table { padding:10px; }
+</style>
