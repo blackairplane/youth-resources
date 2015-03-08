@@ -20,4 +20,6 @@ themes/*
 !themes/default/*
 
 # User config
-config.php
+#config.php
+
+*.idea
