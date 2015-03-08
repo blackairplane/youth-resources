@@ -1,14 +1,3 @@
-<?php
-$ebooks = array(
-    [
-        'title' => 'Holistic Discipleship',
-        'image' => 'http://my.vergenetwork.org/wp-content/uploads/2014/03/HolisticDiscipleshipPeckCoverV2_600x800-225x300.png',
-        'link' => 'http://my.vergenetwork.org/holistic-discipleship/'
-    ],
-
-);
-?>
-
 /*
 Title: Youth Resources - Books
 Description: Simple listing of resources for youth workers
@@ -32,8 +21,8 @@ You can find free eBooks online in various places. The following is just a sampl
 
 <table id="ebook-table">
     <tr>
-        <td><a href=""><img src="%base_url%/images/holistic_disicpleship_cover.png"/></a></td>
-        <td><a href=""><img src="%base_url%/images/6_rhythms_of_highly_effective_disciplemakers.png"/></a></td>
+        <td><a href="http://my.vergenetwork.org/holistic-discipleship/"><img src="http://my.vergenetwork.org/wp-content/uploads/2014/03/HolisticDiscipleshipPeckCoverV2_600x800-225x300.png" alt="Holistic Discipleship"/></a></td>
+        <td><a href="https://multiplymovement.com/material"><img src="http://ecx.images-amazon.com/images/I/41F9wGfloCL._AA160_.jpg" alt="Multiply by Francis Chan"/></a></td>
         <td><a href=""><img src="%base_url%/"/></a></td>
     </tr>
     <tr>
