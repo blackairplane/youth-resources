@@ -1,13 +1,13 @@
 /*
 Title: Home
-Description: Simple listing for lots of resources for youth workers
+Description: Simple listing of resources for youth workers
 */
 
 ## Just quick thought
 
 Cool videos and curriculum do not a successful youth worker make. However, finding the right tools and materials may make a huge difference when it comes to making a huge difference in your community.
 
-In <em>Deep & Wide</em> Andy Stanley says it this way:
+In <em>Deep & Wide</em> Andy Stanley, says it this way:
 <blockquote>
     Marry your mission. Date your model. Fall in love with your vision. Stay mildly infatuated with your approach.
 </blockquote>
