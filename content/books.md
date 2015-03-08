@@ -30,7 +30,3 @@ You can find free eBooks online in various places. The following is just a sampl
         <td><a href=""><img src="%base_url%/images/holistic_disicpleship_cover.png"/></a></td>
     </tr>
 </table>
-
-<style>
-    #ebook-table { padding:10px; }
-</style>
