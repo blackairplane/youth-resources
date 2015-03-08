@@ -20,20 +20,31 @@ You can find free eBooks online in various places. The following is just a sampl
 <table id="ebook-table">
     <tr>
         <td>
-            <a href="http://my.vergenetwork.org/holistic-discipleship/">
+            <a href="http://my.vergenetwork.org/holistic-discipleship/" target="_blank">
                 <img src="http://my.vergenetwork.org/wp-content/uploads/2014/03/HolisticDiscipleshipPeckCoverV2_600x800-225x300.png" alt="Holistic Discipleship" height="200"/>
             </a>
         </td>
         <td>
-            <a href="https://multiplymovement.com/material">
+            <a href="https://multiplymovement.com/material" target="_blank">
                 <img src="http://images.christianpost.com/full/55087/francis-chan-book-multiply.jpg?w=262" alt="Multiply by Francis Chan" height="200"/>
             </a>
         </td>
         <td>
-            <a href="http://www.ntslibrary.com/PDF%20Books/Tozer_Pursuit_of_God.pdf">
+            <a href="http://www.ntslibrary.com/PDF%20Books/Tozer_Pursuit_of_God.pdf" target="_blank">
                 <img src="http://ecx.images-amazon.com/images/I/4110OnQnJvL._SY344_BO1,204,203,200_.jpg" height="200" alt="Pursuit of God by A.W. Tozer"/>
             </a>
         </td>
+        <td>
+            <a href="https://www.exponential.org/resource-ebooks/revisiting-the-master-plan-of-evangelism/" target="_blank">
+                <img src="https://www.exponential.org/wp-content/uploads/2014/06/Revisiting-Bobby-Harrington-ebook-cover-691x1024.jpg" height="200" alt="Revisiting the Master Plan of Evangelism by Robert Coleman and Bobby Harrington"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.exponential.org/resource-ebooks/with-me/" target="_blank">
+                <img src="http://www.exponential.org/wp-content/uploads/2014/04/withme.jpg" height="200" alt="With Me by Lance Ford"/>
+            </a>
+        </td>
+
     </tr>
 
     <tr>
