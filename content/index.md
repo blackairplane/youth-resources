@@ -10,28 +10,27 @@
 <p>Let's manage our time well. Try planning meetings, series and hangouts using <a href="http://calendar.google.com/">Google Calendar</a> and <a href="https://www.facebook.com/events/upcoming?dialog=create">Facebook events</a>.</p>
 <h3>See:</h3>
 <p><small><a href="http://network.crcna.org/church-web/6-simple-ways-your-church-can-use-facebook-better">"6 Simple Ways Your Church Can Use Facebook Better!"</a></small> <br /><small><a href="http://www.churchmarketingsucks.com/2013/05/getting-organized-with-google/">"Getting Organized With Google"</a></small></p>
-<p>&nbsp;</p>
+
+<br />
 <h2>Curriculum</h2>
-<h3>&nbsp;</h3>
-<p>&nbsp;Some youth ministry curriculum provideers for your review:</p>
+<p>Some youth ministry curriculum providers for your review:</p>
 <ol>
     <li><a title="XP3 Students" href="http://xp3students.com/" target="_blank">XP3 Students</a></li>
     <li><a title="Live Curriculum" href="http://live.simplyyouthministry.com/" target="_blank">Live</a></li>
     <li><a title="Group Youth Ministry" href="http://www.group.com/youth-ministry">Group Youth Ministry</a></li>
     <li><a title="Youth Ministry 360" href="https://youthministry360.com/elements" target="_blank">Youth Ministry 360</a></li>
 </ol>
-<h3>Free 3-week series</h3>
-<p>The XP3 Students team at&nbsp;Orange&nbsp;provided&nbsp;a&nbsp;free 3-week series for high school and middle school ministries:&nbsp;<a title="No Limits XP3 series" href="http://youthcloud.com/resources/docs/XP3_NoLimitsPostcard.pdf" target="_blank">No Limits XP3 series</a></p>
-<p>&nbsp;</p>
+<p>The XP3 Students team at Orange provided a free 3-week series for high school and middle school ministries: <a title="No Limits XP3 series" href="http://youthcloud.com/resources/docs/XP3_NoLimitsPostcard.pdf" target="_blank">No Limits XP3 series</a></p>
+
+<br />
 <h2>Strategy</h2>
 <p>Example strategy documents from The Fury:</p>
 <ul>
     <li><a title="Organization chart" href="http://youthcloud.com/resources/docs/ProposedOrganizationChart.pdf" target="_blank">Organization chart</a></li>
     <li><a title="Small group leader job description" href="http://youthcloud.com/resources/docs/SmallGroupLeaderJobDescription.pdf" target="_blank">Small group leader job description</a></li>
 </ul>
-<h2><br />Do I really need to read?</h2>
-<p>When striving to become a better youth worker, (or person in general) it makes little sense to try and re-create the wheel. Proportionally, it costs minimal time and very little money to invest in your education by reading a book. Remember, there's no need to repeat mistakes committed by those who have gone before you.</p>
-<blockquote>It is books that are the key to the wide world; if you can&rsquo;t do anything else, read all that you can. <br /> - <strong>Jane Hamilton</strong></blockquote>
+
+<br />
 <h2>Free eBooks</h2>
 <p>You can find free eBooks online in various places. The following is just a sampling:</p>
 <table class="book-table">
@@ -45,7 +44,9 @@
     </tr>
     </tbody>
 </table>
-<h2><br />Some good books to read</h2>
+
+<br />
+<h2>Suggested reading</h2>
 <p>Here are a few books from which others have gleaned wisdom.</p>
 <table class="book-table">
     <tbody>
@@ -58,6 +59,17 @@
     </tr>
     </tbody>
 </table>
+
+<br />
+<h2>YouTube channels to watch</h2>
+<ul>
+    <li><a title="Youth Specialties" href="https://www.youtube.com/channel/UCtqlu41hofosyViUFQI41Jg" target="_blank">Youth Specialties</a></li>
+    <li><a title="Leadership Collective" href="https://www.youtube.com/user/ldrshpcollectv/videos" target="_blank">Leadership Collective</a></li>
+    <li><a title="Let's Talk Youth Ministry" href="https://www.youtube.com/user/Talkyouthministry/videos" target="_blank">Let's Talk Youth Ministry</a></li>
+    <li><a title="Awakening Conference" href="https://www.youtube.com/user/awakeningconference1" target="_blank">Awakening Conference</a></li>
+    <li><a title="The Discipleship Project" href="https://www.youtube.com/user/jediforhire" target="_blank">The Discipleship Project</a></li>
+    <li><a title="Download Youth Ministry" href="https://www.youtube.com/user/downloadYM/videos" target="_blank">Download Youth Ministry</a></li>
+</ul>
 <h2><br />Miscellaneous reference</h2>
 <ul>
     <li><a href="https://www.goodreads.com/book/show/22314866-deep-and-wide"><em>Deep and Wide</em> by Andy Stanley</a></li>

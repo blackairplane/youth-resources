@@ -2,7 +2,7 @@
 
 // Override any of the default settings below:
 
-$config['site_title'] = 'Youth Resources';			// Site title
+$config['site_title'] = 'Equipped to Lead - Resources';			// Site title
 //$config['base_url'] = ''; 				// Override base URL (e.g. http://example.com)
 //$config['theme'] = 'default'; 			// Set the theme (defaults to "default")
 //$config['date_format'] = 'jS M Y';		// Set the PHP date format
