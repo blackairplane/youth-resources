@@ -3,7 +3,7 @@ Title: Home
 Description: Simple listing of resources for youth workers
 */
 
-## Just quick thought
+## Keep the "why" in mind
 
 Cool videos and curriculum do not a successful youth worker make. However, finding the right tools and materials may make a huge difference when it comes to making a huge difference in your community.
 
@@ -12,7 +12,7 @@ In <em>Deep & Wide</em> Andy Stanley, says it this way:
     Marry your mission. Date your model. Fall in love with your vision. Stay mildly infatuated with your approach.
 </blockquote>
 
-Resources and materials are fleeting, and daresay useless if they do not further the vision of your church. Always be ready to ask the question, "Is this the <strong>best</strong> way to do this?"
+Resources and materials are fleeting, and daresay useless if they do not further the vision of your church. Continue to ask "why", and let that lead you to, "Is this the <strong>best</strong> way to do this?"
 
 ## Do I really need to read?
 
@@ -23,6 +23,25 @@ When striving to become a better youth worker, (or person in general) it makes l
     <br /> - <strong>Jane Hamilton</strong>
 </blockquote>
 
+<br />
+
+## Census statistics
+
+Want to get a rough estimate of how many teenagers live in your area?
+Use WolframAlpha to calculate by simply replacing "Acworth, GA" with your area.
+<a href="http://www.wolframalpha.com/input/?i=+population+ages+12+to+18+cities+within+10+miles+of+Acworth%2C+GA">Teenagers within 10 miles of Acworth, GA</a>
+
+<br />
+
+## Time management
+
+We have roughly 300 Wednesday night or Sunday morning services to make a difference in a student's life. Let's manage our time well. Try planning meetings, series and hangouts using Google Calendar and Facebook events.
+
+#### See:
+<small><a href="http://network.crcna.org/church-web/6-simple-ways-your-church-can-use-facebook-better">"6 Simple Ways Your Church Can Use Facebook Better!"</a></small>
+<small><a href="http://www.churchmarketingsucks.com/2013/05/getting-organized-with-google/">"Getting Organized With Google"</a></small>
+
+<br />
 
 ## Free eBooks
 
@@ -58,6 +77,7 @@ You can find free eBooks online in various places. The following is just a sampl
     </tr>
 </table>
 
+<br />
 
 ## Some good books to read
 
@@ -92,3 +112,9 @@ Here are a few books from which others have gleaned wisdom.
         </td>
     </tr>
 </table>
+
+## Miscellaneous reference
+<ul>
+    <li><a href="https://www.goodreads.com/book/show/22314866-deep-and-wide"><em>Deep and Wide</em> by Andy Stanley</a></li>
+    <li><a href="https://www.goodreads.com/book/show/7108725-start-with-why?from_search=true"><em>Start with Why</em> by Simon Sinek</a></li>
+</ul>
