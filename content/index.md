@@ -28,7 +28,7 @@ When striving to become a better youth worker, (or person in general) it makes l
 
 You can find free eBooks online in various places. The following is just a sampling:
 
-<table id="ebook-table">
+<table class="book-table">
     <tr>
         <td>
             <a href="http://my.vergenetwork.org/holistic-discipleship/" target="_blank">
@@ -55,23 +55,39 @@ You can find free eBooks online in various places. The following is just a sampl
                 <img src="http://www.exponential.org/wp-content/uploads/2014/04/withme.jpg" height="200" alt="With Me by Lance Ford"/>
             </a>
         </td>
-
     </tr>
+</table>
 
+
+## Some good books to read
+
+Here are a few books from which others have gleaned wisdom.
+
+<table class="book-table">
     <tr>
         <td>
-            <a href="http://my.vergenetwork.org/holistic-discipleship/">
-                <img src="http://my.vergenetwork.org/wp-content/uploads/2014/03/HolisticDiscipleshipPeckCoverV2_600x800-225x300.png" alt="Holistic Discipleship" height="200"/>
+            <a href="https://www.goodreads.com/book/show/186962.Contemplative_Youth_Ministry" target="_blank">
+                <img src="https://d.gr-assets.com/books/1348741714l/186962.jpg" alt="Contemplative Youth Ministry: Practicing the Presence of Jesus by Mark Yaconelli" height="200"/>
             </a>
         </td>
         <td>
-            <a href="https://multiplymovement.com/material">
-                <img src="http://images.christianpost.com/full/55087/francis-chan-book-multiply.jpg?w=262" alt="Multiply by Francis Chan" height="200"/>
+            <a href="https://www.goodreads.com/book/show/186963.Purpose_Driven_Youth_Ministry" target="_blank">
+                <img src="https://d.gr-assets.com/books/1408462142l/186963.jpg" alt="Purpose Driven Youth Ministry: 9 Essential Foundations for Healthy Growth by Doug Fields," height="200"/>
             </a>
         </td>
         <td>
-            <a href="http://www.ntslibrary.com/PDF%20Books/Tozer_Pursuit_of_God.pdf">
-                <img src="http://ecx.images-amazon.com/images/I/4110OnQnJvL._SY344_BO1,204,203,200_.jpg" height="200"/>
+            <a href="https://www.goodreads.com/book/show/5535186-sustainable-youth-ministry" target="_blank">
+                <img src="https://d.gr-assets.com/books/1355944743l/5535186.jpg" height="200" alt="Sustainable Youth Ministry: Why Most Youth Ministry Doesn't Last and What Your Church Can Do about It by Mark DeVries"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.goodreads.com/book/show/186961.Your_First_Two_Years_in_Youth_Ministry" target="_blank">
+                <img src="https://d.gr-assets.com/books/1386924309l/186961.jpg" height="200" alt="Your First Two Years in Youth Ministry: A Personal and Practical Guide to Starting Right by Doug Fields"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.goodreads.com/book/show/13700570-taking-theology-to-youth-ministry" target="_blank">
+                <img src="https://d.gr-assets.com/books/1344742121l/13700570.jpg" height="200" alt="Taking Theology to Youth Ministry by Andrew Root"/>
             </a>
         </td>
     </tr>
